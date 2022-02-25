@@ -1,0 +1,15 @@
+body{
+    background-color: slategrey;
+  
+ 
+}
+.card {
+      display: inline-block;
+      margin-left: 75px;
+      margin-right: 5px;
+      margin-top: 50px;
+     
+  }
+.container{
+    text-align: center;
+}
